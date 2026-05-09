@@ -1,12 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyB12aswfy2OECEPvsAmh-nTVfMTon_uZ9w",
-    authDomain: "sggtg-aa6d4.firebaseapp.com",
-    databaseURL: "https://sggtg-aa6d4-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "sggtg-aa6d4",
-    storageBucket: "sggtg-aa6d4.firebasestorage.app",
-    messagingSenderId: "951366047862",
-    appId: "1:951366047862:web:a457674a4912e7714e2757",
-    measurementId: "G-M5HLWWY6TN"
+    apiKey: "AIzaSyD5s48njPoHrlurLCAjrdmYtVds_X_wIa4",
+    authDomain: "art-locker-manage.firebaseapp.com",
+    projectId: "art-locker-manage",
+    storageBucket: "art-locker-manage.firebasestorage.app",
+    messagingSenderId: "326483341533",
+    appId: "1:326483341533:web:53409add5b2fb0001f6b34"
 };
 
 window.firebaseConfig = firebaseConfig;
